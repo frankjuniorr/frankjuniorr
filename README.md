@@ -28,9 +28,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=frankjuniorr&show_icons=true&line_height=27&count_private=true&theme=dark&show_icons=true" alt="Frank's GitHub Stats" />
   </a>
 
+---
+
 <p align="center" style="margin-top:10px">
     <img src="https://raw.githubusercontent.com/frankjuniorr/frankjuniorr/master/img/ubuntu_install.png" alt="ubuntu_install.png" align="left" style="margin-right:10px;margin-top:10px" height="50px">
-    <h1>L.I.A - Linux Interface Automation</h1>
+    <h2>L.I.A - Linux Interface Automation</h2>
 </p>
 My projects about Linux install and interface automation, and dotfiles, are in this organization.
 
