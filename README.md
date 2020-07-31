@@ -13,11 +13,11 @@
 
 # Tecnologies that I usually use
 ![Linux](https://img.shields.io/badge/-Linux-212121?style=flat-square&logo=Linux)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=flat-square&logo=Ubuntu)
-![Bash](https://img.shields.io/badge/-Shell_Script-000000?style=flat-square&logo=gnu)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python)
-![Ansible](https://img.shields.io/badge/-Ansible-000000?style=flat-square&logo=ansible)
-![Git](https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-212121?style=flat-square&logo=Ubuntu)
+![Bash](https://img.shields.io/badge/-Shell_Script-212121?style=flat-square&logo=gnu)
+![Python](https://img.shields.io/badge/-Python-212121?style=flat-square&logo=python)
+![Ansible](https://img.shields.io/badge/-Ansible-212121?style=flat-square&logo=ansible)
+![Git](https://img.shields.io/badge/-Git-212121?style=flat-square&logo=git)
 
 # 📊 Github Stats
 <a href="https://github.com/frankjuniorr/frankjuniorr">
