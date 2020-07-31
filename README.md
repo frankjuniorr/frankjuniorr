@@ -22,9 +22,18 @@
 # 📊 Github Stats
 <a href="https://github.com/frankjuniorr/frankjuniorr">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frankjuniorr&hide=java&theme=dark&show_icons=true" />
+</a>
 
 <a href="https://github.com/frankjuniorr/frankjuniorr">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=frankjuniorr&show_icons=true&line_height=27&count_private=true&theme=dark&show_icons=true" alt="Frank's GitHub Stats" />
+  </a>
+
+## L.I.A - Linux Interface Automation
+
+<img src="1024px.png" alt="ubuntu_install" height="100px"> 
+My projects about Linux install and interface automation, and dotfiles, are in this organization.
+
+  [![Organization](https://github-readme-stats.vercel.app/api/pin/?username=linux-ricing-project&repo=Ubuntu-Install&theme=dark&show_icons=true)](https://github.com/linux-ricing-project/Ubuntu-Install)
 
 ---
 <p align="center">♒ ☮ ☯</p>
