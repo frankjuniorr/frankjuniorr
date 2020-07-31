@@ -29,7 +29,7 @@
   </a>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/frankjuniorr/frankjuniorr/master/img/ubuntu_install.png" alt="ubuntu_install" align="left" style="margin-right:10px" height="50px">
+    <img src="https://raw.githubusercontent.com/frankjuniorr/frankjuniorr/master/img/ubuntu_install.png" alt="ubuntu_install.png" align="left" style="margin-right:10px" height="50px">
     <h1>L.I.A - Linux Interface Automation</h1>
 </p>
 My projects about Linux install and interface automation, and dotfiles, are in this organization.
