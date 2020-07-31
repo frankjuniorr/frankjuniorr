@@ -12,7 +12,7 @@
 - 🚀 I like to create scripts to automate my life
 
 # Tecnologies that I usually use
-![Linux](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux)
+![Linux](https://img.shields.io/badge/-Linux-212121?style=flat-square&logo=Linux)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=flat-square&logo=Ubuntu)
 ![Bash](https://img.shields.io/badge/-Shell_Script-000000?style=flat-square&logo=gnu)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python)
