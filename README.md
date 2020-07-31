@@ -28,14 +28,14 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=frankjuniorr&show_icons=true&line_height=27&count_private=true&theme=dark&show_icons=true" alt="Frank's GitHub Stats" />
   </a>
 
-## L.I.A - Linux Interface Automation
-
-<p align="left">
-<img src="img/1024px.png" alt="ubuntu_install"> 
-My projects about Linux install and interface automation, and dotfiles, are in this organization.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/frankjuniorr/frankjuniorr/master/img/ubuntu_install.png" alt="ubuntu_install" align="left" style="margin-right:10px" height="50px">
+    <h1>L.I.A - Linux Interface Automation</h1>
 </p>
+My projects about Linux install and interface automation, and dotfiles, are in this organization.
 
-  [![Organization](https://github-readme-stats.vercel.app/api/pin/?username=linux-ricing-project&repo=Ubuntu-Install&theme=dark&show_icons=true)](https://github.com/linux-ricing-project/Ubuntu-Install)
+  [![Ubuntu-Install](https://github-readme-stats.vercel.app/api/pin/?username=linux-ricing-project&repo=Ubuntu-Install&theme=dark&show_icons=true)](https://github.com/linux-ricing-project/Ubuntu-Install)
+  [![Ubuntu-Gnome](https://github-readme-stats.vercel.app/api/pin/?username=linux-ricing-project&repo=Ubuntu-Gnome&theme=dark&show_icons=true)](https://github.com/linux-ricing-project/Ubuntu-Gnome)
 
 ---
 <p align="center">♒ ☮ ☯</p>
