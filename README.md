@@ -9,7 +9,7 @@
 
 - 🧑‍💻 Currently i'm working as a Devops Engineer in CESAR ([Github](https://github.com/CESARBR) | [Site](https://www.cesar.org.br/))
 - 🌱 I’m currently learning about devops technologies
-- 🎛 I like to create scripts to automate my life
+- 🚀 I like to create scripts to automate my life
 
 # Tecnologies that I usually use
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux)
