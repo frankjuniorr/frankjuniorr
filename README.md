@@ -30,8 +30,10 @@
 
 ## L.I.A - Linux Interface Automation
 
-<img src="1024px.png" alt="ubuntu_install" height="100px"> 
+<p align="left">
+<img src="img/1024px.png" alt="ubuntu_install"> 
 My projects about Linux install and interface automation, and dotfiles, are in this organization.
+</p>
 
   [![Organization](https://github-readme-stats.vercel.app/api/pin/?username=linux-ricing-project&repo=Ubuntu-Install&theme=dark&show_icons=true)](https://github.com/linux-ricing-project/Ubuntu-Install)
 
