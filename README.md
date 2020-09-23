@@ -14,10 +14,19 @@
 # Tecnologies that I usually use
 ![Linux](https://img.shields.io/badge/-Linux-212121?style=flat-square&logo=Linux)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-212121?style=flat-square&logo=Ubuntu)
-![Bash](https://img.shields.io/badge/-Shell_Script-212121?style=flat-square&logo=gnu)
+![Gnome](https://img.shields.io/badge/-Gnome-212121?style=flat-square&logo=gnome)
+![Bash](https://img.shields.io/badge/-Shell_Script-212121?style=flat-square&logo=gnu-bash)
 ![Python](https://img.shields.io/badge/-Python-212121?style=flat-square&logo=python)
 ![Ansible](https://img.shields.io/badge/-Ansible-212121?style=flat-square&logo=ansible)
 ![Git](https://img.shields.io/badge/-Git-212121?style=flat-square&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-212121?style=flat-square&logo=docker)
+![AWS](https://img.shields.io/badge/-AWS-212121?style=flat-square&logo=amazon-aws)
+
+![VsCode](https://img.shields.io/badge/-VSCode-212121?style=flat-square&logo=visual-studio-code)
+![Jenkins](https://img.shields.io/badge/-Jenkins-212121?style=flat-square&logo=jenkins)
+![Jira](https://img.shields.io/badge/-Jira-212121?style=flat-square&logo=jira)
+![Gitlab](https://img.shields.io/badge/-Gitlab-212121?style=flat-square&logo=gitlab)
+![Github](https://img.shields.io/badge/-Github-212121?style=flat-square&logo=github)
 
 # 📊 Github Stats
 <a href="https://github.com/frankjuniorr/frankjuniorr">
