@@ -43,11 +43,12 @@
     <img src="https://raw.githubusercontent.com/frankjuniorr/frankjuniorr/master/img/ubuntu_install.png" alt="ubuntu_install.png" align="left" style="margin-right:10px;margin-top:10px" height="50px">
     <h2>L.I.A - Linux Interface Automation</h2>
 </p>
-My projects about Linux install and interface automation, and dotfiles, are in this organization.
+My projects about packages installer Linux, interface automation, and dotfiles, are in this organization.
 <br>
 
   [![Ubuntu-Install](https://github-readme-stats.vercel.app/api/pin/?username=linux-ricing-project&repo=Ubuntu-Install&theme=dark&show_icons=true)](https://github.com/linux-ricing-project/Ubuntu-Install)
   [![Ubuntu-Gnome](https://github-readme-stats.vercel.app/api/pin/?username=linux-ricing-project&repo=Ubuntu-Gnome&theme=dark&show_icons=true)](https://github.com/linux-ricing-project/Ubuntu-Gnome)
+  [![dorfiles](https://github-readme-stats.vercel.app/api/pin/?username=linux-ricing-project&repo=dotfiles&theme=dark&show_icons=true)](https://github.com/linux-ricing-project/dotfiles)
 
 ---
 <p align="center">♒ | ☮ | ☯</p>
