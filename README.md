@@ -12,9 +12,9 @@
 - 🚀 I like to create scripts to automate my life
 
 # Tecnologies that I usually use
-![Linux](https://img.shields.io/badge/-Linux-212121?style=flat-square&logo=Linux)
+![Linux](https://img.shields.io/badge/-Linux-212121?style=flat-square&logo=Linux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-212121?style=flat-square&logo=Ubuntu)
-![Gnome](https://img.shields.io/badge/-Gnome-212121?style=flat-square&logo=gnome)
+![Gnome](https://img.shields.io/badge/-Gnome-212121?style=flat-square&logo=gnome&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Shell_Script-212121?style=flat-square&logo=gnu-bash)
 ![Python](https://img.shields.io/badge/-Python-212121?style=flat-square&logo=python)
 ![Ansible](https://img.shields.io/badge/-Ansible-212121?style=flat-square&logo=ansible)
@@ -23,7 +23,7 @@
 ![AWS](https://img.shields.io/badge/-AWS-212121?style=flat-square&logo=amazon-aws)
 
 ![VsCode](https://img.shields.io/badge/-VSCode-212121?style=flat-square&logo=visual-studio-code)
-![Jenkins](https://img.shields.io/badge/-Jenkins-212121?style=flat-square&logo=jenkins)
+![Jenkins](https://img.shields.io/badge/-Jenkins-212121?style=flat-square&logo=jenkins&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-212121?style=flat-square&logo=jira)
 ![Gitlab](https://img.shields.io/badge/-Gitlab-212121?style=flat-square&logo=gitlab)
 ![Github](https://img.shields.io/badge/-Github-212121?style=flat-square&logo=github)
@@ -44,6 +44,7 @@
     <h2>L.I.A - Linux Interface Automation</h2>
 </p>
 My projects about packages installer Linux, interface automation, and dotfiles, are in this organization.
+<br>
 <br>
 
   [![Ubuntu-Install](https://github-readme-stats.vercel.app/api/pin/?username=linux-ricing-project&repo=Ubuntu-Install&theme=dark&show_icons=true)](https://github.com/linux-ricing-project/Ubuntu-Install)
