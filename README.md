@@ -1,13 +1,14 @@
 
 <h3 align="center">👋 Hi! I'm Frank Junior 🇧🇷</h3>
 <p align="center">
+  <img src="https://img.shields.io/badge/frankcbjunior-B71C1C.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
   <a href="https://www.linkedin.com/in/frankjuniorr/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
   <a href="https://instagram.com/frankjuniorr"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 ---
 
-- 🧑‍💻 Currently i'm working as a Devops Engineer in CESAR ([Github](https://github.com/CESARBR) | [Site](https://www.cesar.org.br/))
+- 🧑‍💻 Currently i'm working as a Devops Engineer at [CESAR](https://www.cesar.org.br)
 - 🌱 I’m currently learning about devops technologies
 - 🚀 I like to create scripts to automate my life
 
