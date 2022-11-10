@@ -13,21 +13,18 @@
 - 🚀 I like to create scripts to automate my life
 
 # Tecnologies that I usually use
-![Linux](https://img.shields.io/badge/-Linux-212121?style=flat-square&logo=Linux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-212121?style=flat-square&logo=Ubuntu)
-![Gnome](https://img.shields.io/badge/-Gnome-212121?style=flat-square&logo=gnome&logoColor=white)
-![Bash](https://img.shields.io/badge/-Shell_Script-212121?style=flat-square&logo=gnu-bash)
-![Python](https://img.shields.io/badge/-Python-212121?style=flat-square&logo=python)
-![Ansible](https://img.shields.io/badge/-Ansible-212121?style=flat-square&logo=ansible)
-![Git](https://img.shields.io/badge/-Git-212121?style=flat-square&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-212121?style=flat-square&logo=docker)
-![AWS](https://img.shields.io/badge/-AWS-212121?style=flat-square&logo=amazon-aws)
-
-![VsCode](https://img.shields.io/badge/-VSCode-212121?style=flat-square&logo=visual-studio-code)
-![Jenkins](https://img.shields.io/badge/-Jenkins-212121?style=flat-square&logo=jenkins&logoColor=white)
-![Jira](https://img.shields.io/badge/-Jira-212121?style=flat-square&logo=jira)
-![Gitlab](https://img.shields.io/badge/-Gitlab-212121?style=flat-square&logo=gitlab)
-![Github](https://img.shields.io/badge/-Github-212121?style=flat-square&logo=github)
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Shell" alt="Shell" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" title="Ansible" alt="Ansible" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>  
+<p align="left">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VsCode" alt="VsCode" width="40" height="40"/>  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="Gitlab" alt="Gitlab" width="40" height="40"/>  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>
+</p>
 
 # 📊 Github Stats
 <a href="https://github.com/frankjuniorr/frankjuniorr">
